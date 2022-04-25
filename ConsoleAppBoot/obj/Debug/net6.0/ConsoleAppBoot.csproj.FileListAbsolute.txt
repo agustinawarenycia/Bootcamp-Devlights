@@ -1,0 +1,15 @@
+C:\Users\agus_\OneDrive\Documentos\Bootcamp .Net\WebApplicationBootcamp\ConsoleAppBoot\bin\Debug\net6.0\ConsoleAppBoot.exe
+C:\Users\agus_\OneDrive\Documentos\Bootcamp .Net\WebApplicationBootcamp\ConsoleAppBoot\bin\Debug\net6.0\ConsoleAppBoot.deps.json
+C:\Users\agus_\OneDrive\Documentos\Bootcamp .Net\WebApplicationBootcamp\ConsoleAppBoot\bin\Debug\net6.0\ConsoleAppBoot.runtimeconfig.json
+C:\Users\agus_\OneDrive\Documentos\Bootcamp .Net\WebApplicationBootcamp\ConsoleAppBoot\bin\Debug\net6.0\ConsoleAppBoot.dll
+C:\Users\agus_\OneDrive\Documentos\Bootcamp .Net\WebApplicationBootcamp\ConsoleAppBoot\bin\Debug\net6.0\ConsoleAppBoot.pdb
+C:\Users\agus_\OneDrive\Documentos\Bootcamp .Net\WebApplicationBootcamp\ConsoleAppBoot\obj\Debug\net6.0\ConsoleAppBoot.csproj.AssemblyReference.cache
+C:\Users\agus_\OneDrive\Documentos\Bootcamp .Net\WebApplicationBootcamp\ConsoleAppBoot\obj\Debug\net6.0\ConsoleAppBoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agus_\OneDrive\Documentos\Bootcamp .Net\WebApplicationBootcamp\ConsoleAppBoot\obj\Debug\net6.0\ConsoleAppBoot.AssemblyInfoInputs.cache
+C:\Users\agus_\OneDrive\Documentos\Bootcamp .Net\WebApplicationBootcamp\ConsoleAppBoot\obj\Debug\net6.0\ConsoleAppBoot.AssemblyInfo.cs
+C:\Users\agus_\OneDrive\Documentos\Bootcamp .Net\WebApplicationBootcamp\ConsoleAppBoot\obj\Debug\net6.0\ConsoleAppBoot.csproj.CoreCompileInputs.cache
+C:\Users\agus_\OneDrive\Documentos\Bootcamp .Net\WebApplicationBootcamp\ConsoleAppBoot\obj\Debug\net6.0\ConsoleAppBoot.dll
+C:\Users\agus_\OneDrive\Documentos\Bootcamp .Net\WebApplicationBootcamp\ConsoleAppBoot\obj\Debug\net6.0\refint\ConsoleAppBoot.dll
+C:\Users\agus_\OneDrive\Documentos\Bootcamp .Net\WebApplicationBootcamp\ConsoleAppBoot\obj\Debug\net6.0\ConsoleAppBoot.pdb
+C:\Users\agus_\OneDrive\Documentos\Bootcamp .Net\WebApplicationBootcamp\ConsoleAppBoot\obj\Debug\net6.0\ConsoleAppBoot.genruntimeconfig.cache
+C:\Users\agus_\OneDrive\Documentos\Bootcamp .Net\WebApplicationBootcamp\ConsoleAppBoot\obj\Debug\net6.0\ref\ConsoleAppBoot.dll
